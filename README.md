@@ -26,4 +26,6 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz 
  | Git push | # Subir al repositorio los cambios de la rama|
  | Git --set-upstream origin master| # subir contenido local a GitHub. En el código |
 
- Link mas completo [https://es.wikipedia.org/wiki/Markdown#:~:text=Markdown%20es%20un%20lenguaje%20de,correo%20electr%C3%B3nico%20usando%20texto%20plano.]
+[https://es.wikipedia.org/wiki/Markdown#:~:text=Markdown%20es%20un%20lenguaje%20de,correo%20electr%C3%B3nico%20usando%20texto%20plano.]
+
+[![Esta es una imagen de ejemplo](https://commons.wikimedia.org/wiki/File:Markdown-mark.svg)](https://es.wikipedia.org/wiki/Markdown)
