@@ -16,7 +16,7 @@ GitHub es una forja para alojar proyectos utilizando el sistema de control de ve
 ### Que es Markdown y comandos basicos
 Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
 
-[¡Markdown!]([www.github.com](https://es.wikipedia.org/wiki/Markdown))
+[¡Markdown!](https://es.wikipedia.org/wiki/Markdown))
 
  | Comando | Descripcion |
  |:------------------|:----------|
