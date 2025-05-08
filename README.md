@@ -1,6 +1,8 @@
 # instroduccion
 Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Un proyecto Git cuenta con tres áreas de trabajo principales: el directorio de trabajo, el área de preparación y el directorio repositorio (local o remoto).
 
+![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png)
+
 ### Contenidos:
 1. ```Conceptos relacionado Git```
 2. ```Proyectos Github```
