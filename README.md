@@ -8,10 +8,12 @@ Git es un sistema de control de versiones distribuido, lo que significa que un c
 2. ```Proyectos Github```
 3. ```Lenguaje Markdown```
 
-Link Mas completo (Wikipedia)[https://es.wikipedia.org/wiki/Git]
+Link Mas completo [https://es.wikipedia.org/wiki/Git]
 
 ## ¿Que es Githud?
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
+
+![Esta es una imagen de ejemplo] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PpcahB_qopQ-45P_tA1MjWGzjZnQSo8Gsg&s)
 
 Link Mas completo [https://es.wikipedia.org/wiki/GitHub]
 
