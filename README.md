@@ -11,7 +11,7 @@ Link Mas completo [https://es.wikipedia.org/wiki/Git]
 ## ¿Que es Githud?
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 
-Link Mas completo [https://es.wikipedia.org/wiki/GitHub](Wikipedia)
+Link Mas completo [https://es.wikipedia.org/wiki/GitHub]
 
 ### Que es Markdown y comandos basicos
 Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano.
@@ -26,4 +26,4 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber y Aaron Swartz 
  | Git push | # Subir al repositorio los cambios de la rama|
  | Git --set-upstream origin master| # subir contenido local a GitHub. En el código |
 
- Link mas completo [https://es.wikipedia.org/wiki/Markdown#:~:text=Markdown%20es%20un%20lenguaje%20de,correo%20electr%C3%B3nico%20usando%20texto%20plano.](Github)
+ Link mas completo [https://es.wikipedia.org/wiki/Markdown#:~:text=Markdown%20es%20un%20lenguaje%20de,correo%20electr%C3%B3nico%20usando%20texto%20plano.]
