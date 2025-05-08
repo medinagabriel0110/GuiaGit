@@ -1,15 +1,13 @@
 # instroduccion
 Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad. Un proyecto Git cuenta con tres áreas de trabajo principales: el directorio de trabajo, el área de preparación y el directorio repositorio (local o remoto).
 
-![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png)
+[![Esta es una imagen de ejemplo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/250px-Git-logo.svg.png)(https://es.wikipedia.org/wiki/Git)
 
 ### Contenidos:
 1. ```Conceptos relacionado Git```
 2. ```Proyectos Github```
 3. ```Lenguaje Markdown```
-
-Link Mas completo [https://es.wikipedia.org/wiki/Git]
-
+4. 
 ## ¿Que es Githud?
 GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 
